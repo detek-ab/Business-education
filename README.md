@@ -1,1 +1,3 @@
-# detek
+# DeTeK AB
+
+### Programming
