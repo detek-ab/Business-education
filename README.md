@@ -1,6 +1,4 @@
-# DeTeK AB
+# Företagskunskap
 
-## Programming
-
-## Företagsinformation allmänt
+## Allmän information
 - [MOMS](moms.md)
